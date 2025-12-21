@@ -116,7 +116,7 @@ I’m a passionate **Software Developer** with **3.9+ years of professional expe
 - 💼 **LinkedIn:** [Devendra Pratap](https://www.linkedin.com/in/devendrapratap307/)
 - 💻 **GitHub:** [Devendra Pratap](https://github.com/devendrapratap307/)
 - 🧩 **LeetCode:** [Devendra Pratap](https://leetcode.com/u/comp_coder/)
-- 🏅 **HackerRank:** [Devendra Pratap]([https://hackerrank.com](https://www.hackerrank.com/profile/devendrapratap31))
+- 🏅 **HackerRank:** [https://hackerrank.com](https://www.hackerrank.com/profile/devendrapratap31)
 - 📧 **Email:** [Devendra Pratap](devendrapratap307@gmail.com)
 
 ---
