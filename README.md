@@ -84,7 +84,7 @@ I’m a passionate **Software Developer** with **3.9+ years of professional expe
 ### ⚙️ Frameworks & Tools
 - 🌱 Spring Boot, Hibernate/JPA, JDBC
 - 🔗 REST APIs, gRPC, Microservices
-- 🅰️ **Angular**
+- 🅰️ Angular
 - 🧵 Kafka, Redis, WebSocket
 - 🗄 MySQL, MongoDB
 - 🐳 Docker, Git
