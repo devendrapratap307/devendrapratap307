@@ -100,7 +100,7 @@ I’m a passionate **Software Developer** with **3.9+ years of professional expe
 ## 🏆 Achievements
 
 - ⭐ **5-Star (Gold Badge) in Java on HackerRank**
-- 🏅 **13+ badges on LeetCode**
+- 🏅 **15 badges on LeetCode**
 - 🥇 **Rank 29 in JEECUP-2017** (among ~4,00,000 students)
 
 ---
