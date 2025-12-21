@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devendra Pratap 👨‍💻
 
-🚀 **Software Developer | Java & Integration Engineer | Backend & Microservices Enthusiast**
+🚀 **Software Developer | Java & Integration Engineer | Backend & Microservices Enthusiast  | Springboot  | Go | Angular**
 
 I’m a passionate **Software Developer** with **3.9+ years of professional experience** building **scalable backend systems, integrations, and real-world enterprise applications**. I enjoy working close to the core of systems — APIs, databases, messaging, and distributed services — and turning complex business requirements into clean, reliable software.
 
