@@ -1,11 +1,125 @@
-# 💫 About Me:
-Hi, I’m Devendra Pratap, a Software Developer with a strong focus on building scalable, maintainable backend systems and clean integrations.<br><br>I work primarily with Java and Spring Boot, designing RESTful APIs, microservices, and event-driven systems. I enjoy solving real-world problems related to system integration, performance optimization, and clean architecture. I care a lot about writing readable code, following SOLID principles, and using the right design patterns instead of overengineering.<br><br>Alongside backend development, I have hands-on experience with databases, messaging systems, and frontend integration, which helps me understand the system end-to-end rather than in isolation.<br><br>💻 Tech Stack<br><br>Languages: Java, Go (learning & building), TypeScript<br><br>Backend: Spring Boot, REST APIs, Microservices<br><br>Messaging & Streaming: Kafka<br><br>Databases: MySQL, MongoDB, Redis<br><br>Frontend: Angular (integration-focused)<br><br>DevOps & Tools: Docker, Git, Linux<br><br>Concepts: OOPS, Design Patterns, SOLID, System Design<br><br>🚀 What I’m Interested In<br><br>Backend architecture & integrations<br><br>Event-driven systems<br><br>High-performance data handling<br><br>Clean code & low-level design<br><br>Learning Go and building scalable services
+# 👋 Hi, I'm Devendra Pratap 👨‍💻
 
+🚀 **Software Developer | Java & Integration Engineer | Backend & Microservices Enthusiast**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devendrapratap307/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devendrapratap307@gmail.com) 
+I’m a passionate **Software Developer** with **3.9+ years of professional experience** building **scalable backend systems, integrations, and real-world enterprise applications**. I enjoy working close to the core of systems — APIs, databases, messaging, and distributed services — and turning complex business requirements into clean, reliable software.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
-[![](https://visitcount.itsvg.in/api?id=devendraprata307&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🧑‍💼 Professional Experience
+
+### 🏢 **HostBooks Limited** — *Software Developer (Full Time)*  
+📍 Gurgaon, HR | 🗓 **Aug 2022 – Present**
+
+- 🚧 Designing and developing **RESTful APIs** using **Java & Spring Boot** with **MySQL**
+- 🔗 Working on **microservices-based architecture** with **Kafka, Redis, WebSockets**
+- 🏭 Built and enhanced enterprise modules including:
+  - 📦 **Warehouse Management System (WMS)** – inventory tracking & storage
+  - 🚚 **Shipment Management** – dispatch & receiving workflows
+  - 🧾 **Picklist Generation** – order fulfillment automation
+  - 🪜 **Crate Management System** – crate lifecycle & movement tracking
+  - 🛠 **Job Work Management** – outsourced process handling
+- 🌐 Contributed to backend services using **Golang, gRPC, GORM, Fiber**
+- 🎨 Integrated backend systems with **Angular frontend**
+
+**🛠 Tech Stack:**  
+`Java` `Spring Boot` `MySQL` `Hibernate/JPA` `REST APIs` `Kafka` `Redis` `WebSocket`  
+`Microservices` `Angular` `TypeScript` `Golang` `gRPC` `Docker`
+
+---
+
+### 🏢 **Spade Infotech Pvt. Ltd.** — *Software Engineer Intern*  
+📍 Gurgaon, HR | 🗓 **Feb 2022 – Jul 2022**
+
+- 🧑‍💻 Worked on a **production-grade insurance application**
+- 🔐 Implemented **authentication & authorization** using **Microsoft Azure Cloud**
+- 🧱 Contributed to feature development and bug fixing
+
+**🛠 Tech Stack:**  
+`Java` `Spring Boot` `JDBC` `MySQL` `Azure Cloud`
+
+---
+
+## 🚀 Projects
+
+### 🧾 **EMS – Employee Management System**  
+🗓 June 2022 | 🔗 *Code Available*
+
+- Full-stack **CRUD application** with **JWT-based authentication**
+- Role-based access control, validation & exception handling
+- Built REST APIs and Angular frontend with guards & routing
+
+**Tech Used:**  
+`Java` `Spring Boot` `Hibernate/JPA` `MySQL` `Angular` `JWT`
+
+---
+
+### 💬 **Real-Time Chat Application**  
+🗓 Dec 2024 | 🔗 *Code Available*
+
+- Real-time chat app using **WebSockets**
+- **Angular frontend** for live messaging
+- **Spring Boot backend** for message routing & socket handling
+
+**Tech Used:**  
+`Spring Boot` `WebSocket` `Angular`
+
+---
+
+## 🎓 Education
+
+🎓 **B.Tech (ECE)** — *1st Division with Honors*  
+🏫 Deenbandhu Chhotu Ram University of Science & Technology, Haryana  
+📊 **CGPA: 8.15** (2018 – 2022)
+
+---
+
+## 🧠 Skills
+
+### 💻 Programming Languages
+- ☕ Java
+- 🐹 Golang
+- 🟦 TypeScript
+
+### ⚙️ Frameworks & Tools
+- 🌱 Spring Boot, Hibernate/JPA, JDBC
+- 🔗 REST APIs, gRPC, Microservices
+- 🧵 Kafka, Redis, WebSocket
+- 🗄 MySQL, MongoDB
+- 🐳 Docker, Git
+
+### 📚 Core Concepts
+- 🧠 OOPS & Design Patterns
+- 🧱 SOLID Principles
+- 🏗 System Design (LLD basics)
+- 📊 Data Structures & Algorithms
+
+---
+
+## 🏆 Achievements
+
+- ⭐ **5-Star (Gold Badge) in Java on HackerRank**
+- 🏅 **13+ badges on LeetCode**
+- 🥇 **Rank 29 in JEECUP-2017** (among ~4,00,000 students)
+
+---
+
+## 📜 Certifications
+- 📄 Java Certification — HackerRank
+- 📄 SQL Certification — GeeksForGeeks
+- 📄 HTML & CSS — Coursera
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/devendrapratap307/
+- 💻 **GitHub:** https://github.com/devendrapratap307
+- 🧩 **LeetCode:** [https://leetcode.com/devendrapratap307](https://leetcode.com/u/comp_coder/)
+- 🏅 **HackerRank:** https://hackerrank.com
+- 📧 **Email:** devendrapratap307@gmail.com
+
+---
+
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories or reach out for collaboration on backend, integration, or microservices projects.*
+
